@@ -1,0 +1,112 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(232, 255, 192);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.for-h1 p{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+.for-h1 h3{
+    color: blue;
+}
+.container{
+    max-width: 1050px;
+    height: 1000px;
+    background-color:pink;
+    
+    margin:0 auto;
+    padding:20px;
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border:4px white solid;
+    border-radius: 50%;
+    float:left;
+    
+}
+.for-h1{
+    float:left;
+    color: rgba(13, 12, 13, 0.927);
+    
+    padding:20px;
+    
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgba(13, 12, 13, 0.927);
+}
+.linkup{
+    float: right;
+    padding: 20px;
+    
+}
+.linkup a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.linkup a:hover{
+    color:red;
+    cursor: crosshair;
+
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border: 3px slateblue solid;
+    width: 100%;
+    margin:20px auto;
+    border-bottom: none;
+}
+.content{
+    margin-bottom: 30px;
+
+}
+.right-div{
+    width: 70%;
+    font-size: 1rem;
+    font-style: normal;
+    font-size:17px ;
+    color:rgb(13, 13, 13);
+    
+}
+.left-div{
+    width: 30%;
+    float:left;
+
+}
+hr{
+    border:steelblue solid 3px ;
+    
+    width:100%;
+    margin:30px auto;
+    border-bottom:none;
+    
+}
+.div-right{
+    float:left;
+
+}
+
+
+.list1{
+    padding-top: 16px;
+
+
+    
+}
+.list2{
+    
+    padding-right: 20px;
+
+    
+}
